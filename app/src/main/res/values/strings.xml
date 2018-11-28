@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RxTest</string>
+    <string name="go_to_leak_activity">Go to Leak Activity</string>
+    <string name="go_to_no_leak_activity">Go to No Leak Activity</string>
+</resources>
